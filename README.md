@@ -57,3 +57,8 @@ We welcome contributions to improve the website. If you have any suggestions or 
 
 ## Task Preview
 [Blog-Website_Video.zip](https://github.com/user-attachments/files/15593884/Blog-Website_Video.zip)
+
+## Contact
+
+For any questions or feedback, please contact Sneha Khandar at [khandarsneha2004@gmail.com](mailto:khandarsneha2004@gmail.com)
+
