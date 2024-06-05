@@ -54,6 +54,6 @@ We welcome contributions to improve the website. If you have any suggestions or 
    ```bash
    git push origin feature-name
    ```
-5. **Open a pull request**.
 
 ## Task Preview
+[Blog-Website_Video.zip](https://github.com/user-attachments/files/15593884/Blog-Website_Video.zip)
